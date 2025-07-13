@@ -40,3 +40,11 @@ Making our life better through continuous changes by SW developing.
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
+
+
+## Github stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SangBumShon)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Top languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SangBumShoon)](https://github.com/anuraghazra/github-readme-stats)
