@@ -18,22 +18,26 @@ Making our life better by programming.
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-<h3>🔧 Backend Framework</h3>
+<h3>🔧 Backend</h3>
 <p>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
-<h3>🧠 AI / Vector / Agent</h3>
+<h3>🧠 AI / Vector DB / Agent</h3>
 <p>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/FAISS-0099CC?style=for-the-badge&logo=vector&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chroma-ff4c98?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinecone-026380?style=for-the-badge&logo=pinecone&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-black?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
-<h3>💾 Database / Infra</h3>
+<h3>💾 Database</h3>
 <p>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
 </p>
 
 <h3>⚙️ DevOps / Infra</h3>
@@ -41,6 +45,8 @@ Making our life better by programming.
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
+
+
 
 
 ## Github stats
