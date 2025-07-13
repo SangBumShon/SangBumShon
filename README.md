@@ -32,6 +32,7 @@ Making our life better by programming.
   <img src="https://img.shields.io/badge/Chroma-ff4c98?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pinecone-026380?style=for-the-badge&logo=pinecone&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAG-black?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
 <h3>💾 Database</h3>
