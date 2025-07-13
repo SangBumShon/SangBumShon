@@ -45,6 +45,3 @@ Making our life better through continuous changes by SW developing.
 ## Github stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SangBumShon)](https://github.com/anuraghazra/github-readme-stats)
 
-
-## Top languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SangBumShoon)](https://github.com/anuraghazra/github-readme-stats)
