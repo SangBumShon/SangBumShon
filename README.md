@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-I'm a AI engineer and Back - End developer.
+AI engineer and Back-End developer.
 <br>
 Making our life better by programming.
 
