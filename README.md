@@ -2,7 +2,7 @@
 ## 🚀 About Me
 I'm a AI engineer and Back - End developer.
 <br>
-Making our life better through continuous changes by programming.
+Making our life better by programming.
 
 
 
