@@ -8,7 +8,6 @@ Making our life better by programming.
 
 
 ## 🔗 Links
-[![portfolio]()
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 ## Badges
