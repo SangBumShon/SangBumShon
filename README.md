@@ -4,11 +4,19 @@ AI engineer and Back-End developer.
 <br>
 Making our life better by programming.
 
-AI Projects : 
+
+
+Major services and projects : 
+
 1. Fandom -
-2. AI 대면 면접관 -
+2. AI 대면 면접관(AI interview service) -
+
+
+
 
 프로젝트에 대한 링크 접속을 희망하시면, core5630@naver.com 으로 github ID와 함께 메일을 주시기 바랍니다. 확인후 접속 가능하게 안내 드리겠습니다.
+
+
 If you want to see my projects, please send request through my email  core5630@naver.com, with your github ID and purposes. After examination, I will send you guides to access my projects.
 
 
