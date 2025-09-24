@@ -20,7 +20,7 @@ Making our life better by programming.
 If you want to see my projects, please send request through my email  core5630@naver.com, with your github ID and purposes. After examination, I will send you guides to access my projects.
 
 
-如果您想查看我的项目，请通过我的邮箱 core5630@naver.com 发送请求，并附上您的 GitHub ID 和目的。经过审查后，我将向您发送访问我项目的指南。
+如果您想查看我的项目，请通过我的邮箱 core5630@naver.com 发送请求，并附上您的 GitHub ID 和访问目的。经过审查后，我将向您发送访问指南。
 
 
 
