@@ -8,7 +8,7 @@ Making our life better by programming.
 
 #### Major services and projects : 
 
-#### 1. Fandom - https://github.com/SangBumShon/Fandom-demo 
+#### 1. 실시간 사용자 분석 서비스 - https://github.com/SangBumShon/Fandom-demo 
 #### 2. AI 대면 면접관(AI interview service) - https://github.com/SangBumShon/AXIS-Interview-AI
 
 
